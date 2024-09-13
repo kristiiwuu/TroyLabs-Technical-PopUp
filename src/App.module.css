@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  background-color: #fefbf6;
+  height: 1000px;
+  width: auto;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo {
+  position: fixed;
+  top: 0px;
+  width: 500px;
+  margin: 10px;
+}
+
+.Intro {
+  height: 700px;
+  width: 700px;
+  position: fixed;
+}
